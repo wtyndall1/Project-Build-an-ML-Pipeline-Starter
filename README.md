@@ -1,4 +1,5 @@
 GitHub Link for my repo: https://github.com/wtyndall1/Project-Build-an-ML-Pipeline-Starter
+wandb project link: https://wandb.ai/wtynda1-western-governors-university/nyc_airbnb/overview
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
